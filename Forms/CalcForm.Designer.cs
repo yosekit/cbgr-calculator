@@ -1,6 +1,8 @@
-﻿namespace WinDescCalc
+﻿using WinDescCalc.Components;
+
+namespace WinDescCalc
 {
-	partial class CalcForm
+    partial class CalcForm
 	{
 		/// <summary>
 		///  Required designer variable.
